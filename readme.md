@@ -1,6 +1,1 @@
-welcome to kansai
-hogehoge
-
-
-
-foo
+test remote add
